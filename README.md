@@ -1,9 +1,8 @@
 
 # Qiskit Global Summer School 2022: Quantum Simulations by IBM Quantum.
-July 18 - 29, 2022
-QGSS2022
+July 18 - 29, 2022    
 
-Two-week intensive course through 19 lectrures and 4 lab sessions constituting introduction to quantum computing and its applications to quantum simulation with special focus on quantum chemistry.
+QGSS2022: Two-week intensive course through 19 lectrures and 4 lab sessions constituting introduction to quantum computing and its applications to quantum simulation with special focus on quantum chemistry.
 
 
 ## Topics of the Lectures 
