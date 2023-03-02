@@ -6,15 +6,15 @@ Two-week intensive course through 19 lectrures and 4 lab sessions constituting i
 
 
 ## Lectures 
-History of Quantum Computing and Motivation for Quantum Simulation
-Introduction to Linear Algebra, Prerequisite Mathematics & Circuit Composition
-Hamiltonian Time Evolution
-Simulation Problems
-Noisy Real Hardware - Noise in Quantum Computers
-Broad Overview of Quantum Chemistry Simulation & Why it is a Challenge
-Methods for Quantum Simulation
-Quantum Static Simulation
-Quantum Dynamics
+History of Quantum Computing and Motivation for Quantum Simulation    
+Introduction to Linear Algebra, Prerequisite Mathematics & Circuit Composition    
+Hamiltonian Time Evolution    
+Simulation Problems    
+Noisy Real Hardware - Noise in Quantum Computers    
+Broad Overview of Quantum Chemistry Simulation & Why it is a Challenge    
+Methods for Quantum Simulation    
+Quantum Static Simulation    
+Quantum Dynamics    
 
 
 ## Labs
