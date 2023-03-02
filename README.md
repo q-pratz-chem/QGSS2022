@@ -5,16 +5,16 @@ July 18 - 29, 2022
 Two-week intensive course through 19 lectrures and 4 lab sessions constituting introduction to quantum computing and its applications to quantum simulation with special focus on quantum chemistry.
 
 
-## Lectures 
-History of Quantum Computing and Motivation for Quantum Simulation    
-Introduction to Linear Algebra, Prerequisite Mathematics & Circuit Composition    
-Hamiltonian Time Evolution    
-Simulation Problems    
-Noisy Real Hardware - Noise in Quantum Computers    
-Broad Overview of Quantum Chemistry Simulation & Why it is a Challenge    
-Methods for Quantum Simulation    
-Quantum Static Simulation    
-Quantum Dynamics    
+## Topics of the Lectures 
+1. History of Quantum Computing and Motivation for Quantum Simulation    
+2. Introduction to Linear Algebra, Prerequisite Mathematics & Circuit Composition    
+3. Hamiltonian Time Evolution    
+4. Simulation Problems    
+5. Noisy Real Hardware - Noise in Quantum Computers    
+6. Broad Overview of Quantum Chemistry Simulation & Why it is a Challenge    
+7. Methods for Quantum Simulation    
+8. Quantum Static Simulation    
+9. Quantum Dynamics    
 
 
 ## Labs
